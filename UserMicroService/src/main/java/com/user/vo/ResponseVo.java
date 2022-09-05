@@ -15,4 +15,5 @@ public class ResponseVo {
 	private User user;
 	
 	private DepartmentDto departmentDto;
+
 }
